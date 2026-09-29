@@ -1,3 +1,0 @@
---- QUESTION 3: REVE'S PUZZLE (4 PEGS) ---
-Disks: 8, Target Pegs: 4
-Total Moves: 33

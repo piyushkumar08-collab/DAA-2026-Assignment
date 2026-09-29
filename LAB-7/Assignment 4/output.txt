@@ -1,3 +1,0 @@
---- QUESTION 4: SECURITY SWITCHES ---
-Switches (n): 4
-Minimum Toggles to Turn Off All: 5
